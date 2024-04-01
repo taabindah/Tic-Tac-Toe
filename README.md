@@ -8,4 +8,4 @@ You can start playing using the command   _runner.py_  to play Tic Tac Toe again
 Feel free to explore and modify the code for educational purposes or to enhance its functionality. Enjoy the game!
 
 #
-Kindly take note that the runner.py are part of the assignment starting code and are not original to me. Initial code: ©2020 Malan, David J. Malan/Harvard
+Kindly take note that the basic implementation in the runner.py are part of the assignment starting code and are not original to me. Initial code: ©2020 Malan, David J. Malan/Harvard
